@@ -25,6 +25,7 @@ $(document).ready(function () {
       $('.showHumidity').text(`The humidity in ${city} is ${response.main.humidity}%`);
       $('.showTemp').text(`The temperature in Kelvins is ${response.main.temp} degrees.`);
       $('.showWindSpeed').text(`The wind speed is ${response.wind.speed} mph.`);
+      $('.showPressure').text(`The pressure is ${response.wind.pressure} mph.`);
       
     }
   });
