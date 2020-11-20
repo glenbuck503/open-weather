@@ -70,6 +70,23 @@ $(document).ready(function() {
 //     });
 //   });
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //   $('#zipCode').click(function () {
 //     $(this).data('clicked', true);
 //     let zip = $('#zipcode').val();
